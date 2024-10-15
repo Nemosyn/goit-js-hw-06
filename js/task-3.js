@@ -10,7 +10,7 @@ class StringBuilder {
   }
 
   padEnd(str) {
-    this.#valur += str;
+    this.#value += str;
   }
 
   padStart(str) {
